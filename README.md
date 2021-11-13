@@ -1,2 +1,10 @@
-# RIR
-This is designed to follow a web tample
+# i am rokib  
+i make a program
+
+```c
+int a, b;
+a = 10;
+
+printf("%d");
+```
+
